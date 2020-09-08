@@ -25,15 +25,27 @@ The Ewing laboratory of Montana State University acquired the role of interpreti
 
 ### Variables: 
 _FieldSampleID:_ Unique identifier for each sample
+
 Block	
+
 Depth_val	
-Depth_incr	
+
+Depth_incr
+
 N_Treat	
+
 Treat_ID	
+
 Treat_Explan	
+
 Till_Status	Year	
+
 Bulk_dens	
+
 Tot_N	
+
 Tot_C	
+
 OC	
+
 IC
