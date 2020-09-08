@@ -38,16 +38,16 @@ _Treat_ID:_ Treatment ID (1:8)
 
 _Treat_Explain:_ Explains the treatment ID in terms of crop rotation order (These treatments consist of two fallow-wheat rotations under tilled and no-till management, and five annual cropping systems under no-till management, and alfalfa–perennial grass system used to mimic land in the Conservation Reserve Program (CRP).)
 
-_"Till_Status":_	Till (T)	or No till NT
+_Till_Status":_	Till (T)	or No till NT
 
 _Year:_ Year sample taken
 
 _Bulk_dens:_	Bulk Density of soil sample
 
-Tot_N	
+_Tot_N:_	Total Nitrogen 
 
-Tot_C	
+_Tot_C:_ Total Carbon	
 
-OC	
+_OC:_ Total Organic Carbon	
 
-IC
+_IC:_ Total Inorganic Carbon
