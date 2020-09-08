@@ -26,21 +26,23 @@ The Ewing laboratory of Montana State University acquired the role of interpreti
 ### Variables: 
 _FieldSampleID:_ Unique identifier for each sample
 
-Block	
+_Block:_ Block number (1:4)	
 
-Depth_val	
+_Depth_val:_ Soil Sample Depth from surface (cm)
 
-Depth_incr
+_Depth_incr:_ Total Soil Sample length (cm)
 
-N_Treat	
+_N_Treat:_ Nitrogen Treatment, High or Low (High = full reccomended amount in lb/acre, Low = Half rec. amount)
 
-Treat_ID	
+_Treat_ID:_ Treatment ID (1:8)
 
-Treat_Explan	
+_Treat_Explain:_ Explains the treatment ID in terms of crop rotation order (These treatments consist of two fallow-wheat rotations under tilled and no-till management, and five annual cropping systems under no-till management, and alfalfa–perennial grass system used to mimic land in the Conservation Reserve Program (CRP).)
 
-Till_Status	Year	
+_"Till_Status":_	Till (T)	or No till NT
 
-Bulk_dens	
+_Year:_ Year sample taken
+
+_Bulk_dens:_	Bulk Density of soil sample
 
 Tot_N	
 
