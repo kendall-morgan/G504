@@ -5,16 +5,16 @@ Soil sample data for multiple crop rotation blocks located at Post Farm, a Monta
 
 
 
-_Abbreviation:_ SD (Soil Data)
+__Abbreviation:__ SD (Soil Data)
 
 
 
-_Authors:_ 
+__Authors:__ 
 - Sam Leuthold
 - Joe Capella
 
 
-_Affiliation:_ Montana State Univeristy, Ewing Laboratory 
+__Affiliation:__ Montana State Univeristy, Ewing Laboratory 
 
 
 ### Description:
@@ -24,3 +24,16 @@ Started by Dr. Rick Engel and Dr. Perry Miller, an ongoing replicated block desi
 The Ewing laboratory of Montana State University acquired the role of interpreting existing soil sample results and taking new ones from the Engel et. al. study by testing the same plots from the study in two critical years, 2012 and 2016, when all of the plots were planted in winter wheat (see Table 1). Testing soil in this time frame allows for a window into the accumulations of total carbon (TC), total nitrogen (TN), organic carbon (OC), and inorganic carbon (IC) to be evaluated with no bias from the current crops present at that time. 
 
 ### Variables: 
+_FieldSampleID:_ Unique identifier for each sample
+Block	
+Depth_val	
+Depth_incr	
+N_Treat	
+Treat_ID	
+Treat_Explan	
+Till_Status	Year	
+Bulk_dens	
+Tot_N	
+Tot_C	
+OC	
+IC
