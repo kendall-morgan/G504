@@ -18,7 +18,14 @@
 
 #### 5. What are the disadvantages of making your data/code more widely accessible?
 
+> Disadvantages could include not being correctly cited or having your data misused and attempted to be published poorly. 
+
 #### 6. What data/code from your grad project would you envision publishing on GitHub?
 
+> I envision publishing my code for processing soil CO2 fluxes using a clear chamber that requires manual data selection. I would also like to publish my soil Carbon inventory data sets as this is simple and usable information in many settings 
+
 #### 7. What data/code would you not publish? Why?
+
+> I am not sure what data I will choose not to publish as I still have a year left, but I likely wont publish experimental, non-peer reviewed data to avoid accidently leading anyone astray.
+
 
